@@ -1,7 +1,7 @@
 {
-  "name": "ebelt-back",
+  "name": "fluidy_api",
   "version": "1.0.0",
-  "description": "",
+  "description": "api de test fluidy",
   "main": "index.js",
   "scripts": {
     "start": "nodemon api.js"
@@ -20,5 +20,14 @@
     "mongoose": "^5.9.13",
     "nodemon": "^2.0.3",
     "request": "^2.88.2"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mockpoc/api_fluidy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mockpoc/api_fluidy/issues"
+  },
+  "homepage": "https://github.com/mockpoc/api_fluidy#readme"
 }
